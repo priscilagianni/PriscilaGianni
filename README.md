@@ -1,16 +1,22 @@
-## Hi there 👋
+# Oiee, eu sou a Priscila! 👋
 
-<!--
-**priscilagianni/PriscilaGianni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Fisioterapia há 12 anos e estou em transição de carreira para a área de Tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** e iniciando meus estudos em **Quality Assurance (QA)**.
 
-Here are some ideas to get you started:
+Sou uma pessoa curiosa, organizada e comunicativa, e acredito que qualidade vai muito além de testar: é sobre processo, melhoria contínua e experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim:
+
+🧪 Iniciante em QA, com foco em aprender e aplicar boas práticas de qualidade de software  
+🔍 Interesse em testes manuais, exploratórios e regressivos  
+🐞 Aprendendo a registrar bugs com descrição clara e passos de reprodução  
+🗂️ Estudando documentação de casos de teste e planos de teste  
+📚 Em constante aprendizado nas áreas de QA, SQL, APIs e lógica de programação  
+🎯 Em busca da minha primeira oportunidade de estágio/júnior em QA  
+
+📍 Recife - PE  
+📫 Contato: priscila_gianni@hotmail.com  
+💼 LinkedIn: www.linkedin.com/in/priscila-gianni-224a5727a
+
+---
+
+✨ Em transição, mas com foco, disciplina e vontade de crescer na área de tecnologia.
