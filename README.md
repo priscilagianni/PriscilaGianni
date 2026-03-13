@@ -1,6 +1,6 @@
 # Oiee, eu sou a Priscila! 👋
 
-Sou formada em Fisioterapia há 12 anos e estou em transição de carreira para a área de Tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** ee aprofundando meus estudos em **Quality Assurance (QA)**.
+Sou formada em Fisioterapia há 12 anos e estou em transição de carreira para a área de Tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** e aprofundando meus estudos em **Quality Assurance (QA)**.
 
 Sou uma pessoa curiosa, organizada e comunicativa, e acredito que qualidade vai muito além de testar: é sobre processo, melhoria contínua e experiência do usuário.
 
