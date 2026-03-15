@@ -50,9 +50,18 @@ FAREC – Faculdade do Recife
 
 
 <p align="center">
-<a href="mailto:priscila_gianni@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-<a href="https://instagram.com/priscilagiannii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/priscila-gianni-224a5727a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<a href="mailto:priscila_gianni@hotmail.com">
+<img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
 
+<a href="mailto:priscila_gianni@hotmail.com">📧 Enviar e-mail</a>
+
+<a href="https://instagram.com/priscilagiannii">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/priscila-gianni-224a5727a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
 
