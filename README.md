@@ -48,6 +48,7 @@ FAREC – Faculdade do Recife
 📌 Em breve estarei adicionando projetos de **testes manuais**, **testes de API** e **automação de testes com Cypress**.
 
 
+
 <p align="center">
 <a href="mailto:priscila_gianni@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://instagram.com/priscilagiannii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
