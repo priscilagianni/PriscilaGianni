@@ -19,7 +19,7 @@ Conhecimentos em:
 Planejamento e estratégias de testes, HTML, CSS, SQL, JavaScript, automação de testes com Cypress, escrita de cenários com Gherkin, BDD (Behavior Driven Development), Jira e Postman para testes de API.
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscila_gianni@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscila_gianni@hotmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscilagiannii/)
 
