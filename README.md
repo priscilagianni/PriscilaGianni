@@ -1,13 +1,16 @@
-# Olá, seja bem-vindo(a) ao meu perfil
+# Olá, seja bem-vindo(a) ao meu perfil 👋
 
-Sou a **Priscila**, estudante de **Análise e Desenvolvimento de Sistemas**, em transição de carreira para a área de tecnologia, com foco em **Qualidade de Software (QA)**.
+Meu nome é **Priscila**, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição de carreira para a área de tecnologia, com foco em **Qualidade de Software (QA)**.
 
-Atualmente estou me capacitando em **testes de software**, estudando e aplicando técnicas como **Partição de Equivalência, Análise de Valor Limite e Tabela de Decisão**, além da **elaboração e execução de casos de teste**, **análise de requisitos e regras de negócio** e **identificação e reporte de bugs**.
+Atualmente, estou me desenvolvendo em **testes de software**, aplicando técnicas como **Partição de Equivalência, Análise de Valor Limite e Tabela de Decisão**, além da **criação e execução de casos de teste**, **análise de requisitos e regras de negócio** e **identificação e reporte de bugs**.
 
-Também venho desenvolvendo conhecimentos em **testes de API** e **automação de testes com Cypress**, além de testes em **aplicações web**.
+Também venho adquirindo conhecimentos em **testes de API** e iniciando meus estudos em **automação de testes com Cypress**, além de testes em **aplicações web**.
 
-Tenho formação em **Fisioterapia** e mais de **10 anos de experiência profissional**, o que me proporcionou habilidades importantes como **organização, comunicação, empatia, planejamento e trabalho em equipe**, competências que hoje aplico também na área de tecnologia.
+Sou formada em **Fisioterapia** e possuo mais de **10 anos de experiência profissional**, o que me proporcionou habilidades como **organização, comunicação, empatia, planejamento e trabalho em equipe**, competências que hoje aplico na área de tecnologia.
 
+🚀 Sempre em aprendizado e evolução na área de QA.
+
+---
 
 ## 💡 Formação
 
@@ -18,17 +21,19 @@ Previsão de conclusão: **2026**
 🎓 **Bacharel em Fisioterapia**  
 FAREC – Faculdade do Recife
 
+---
 
 ## 🧪 Conhecimentos em Qualidade de Software
 
-- Planejamento e estratégias de testes  
+- Planejamento e execução de testes  
 - Partição de equivalência  
 - Análise de valor limite  
 - Tabela de decisão  
-- Elaboração e execução de casos de teste  
+- Criação e execução de casos de teste  
 - Análise de requisitos e regras de negócio  
 - Identificação e reporte de bugs  
 
+---
 
 ## 🛠 Tecnologias e Ferramentas
 
@@ -36,17 +41,20 @@ FAREC – Faculdade do Recife
 - CSS  
 - JavaScript  
 - SQL  
-- Cypress  
+- Cypress (básico)  
 - Postman  
 - Jira  
 - Gherkin  
 - BDD (Behavior Driven Development)
 
+---
 
 ## 🧪 Projetos de Teste
 
-📌 Em breve estarei adicionando projetos de **testes manuais**, **testes de API** e **automação de testes com Cypress**.
+📌 Projeto de automação de testes de API:  
+🔗 https://github.com/priscilagianni/banco-api-testes  
 
+📌 Em breve estarei adicionando projetos de **testes manuais** e **automação com Cypress**.
 
 
 <p align="center">
