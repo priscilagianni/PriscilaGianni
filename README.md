@@ -74,7 +74,7 @@ Sou fisioterapeuta há mais de **12 anos**, experiência que desenvolveu habilid
 - Resolução de problemas
 - Foco na experiência do usuário
 
-  ## Experiência prática em QA (voluntariado)
+## Experiência prática em QA (voluntariado)
 
 Atualmente atuo como **QA voluntária na comunidade Pipoca Ágil**, participando de atividades práticas relacionadas à Qualidade de Software, onde aplico e evoluo conhecimentos em:
 
