@@ -2,7 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou direcionando meus estudos para a área de **Qualidade de Software (QA)**, com foco em testes manuais, testes de API e automação.
 
-Atualmente participo da **Mentoria 2.0 em Qualidade de Software** com **Julio de Lima**, onde aprofundo conhecimentos em processos de testes, estratégia de qualidade, automação e boas práticas utilizadas no mercado.
+Atualmente participo da **Mentoria 2.0 em Qualidade de Software** com **Julio de Lima**, onde venho aprofundando conhecimentos em processos de testes, estratégia de qualidade, automação e boas práticas utilizadas no mercado.
 
 ---
 
@@ -29,12 +29,6 @@ Acredito que qualidade de software vai além de encontrar defeitos: é compreend
 - Testes de API com Postman
 - Automação de testes com Cypress
 
-### Técnicas de Teste
-
-- Partição de Equivalência
-- Análise de Valor Limite
-- Tabela de Decisão
-
 ---
 
 # Ferramentas e Tecnologias
@@ -51,7 +45,7 @@ Acredito que qualidade de software vai além de encontrar defeitos: é compreend
 
 ## FisioFlow
 
-Projeto desenvolvido para simular um sistema de gestão para clínicas de fisioterapia.
+Projeto desenvolvido para simular um istema completo para gerenciamento de pacientes e agendamentos de fisioterapia.
 
 Nesse projeto aplico conceitos e práticas de Qualidade de Software, incluindo:
 
@@ -60,7 +54,7 @@ Nesse projeto aplico conceitos e práticas de Qualidade de Software, incluindo:
 - Testes manuais
 - Documentação de bugs
 - Testes de API
-- Automação com Cypress
+- Automação com Mocha, Chai, Supertest e Cypress
 - Versionamento com Git e GitHub
 
 O objetivo é praticar um fluxo próximo ao ambiente real de desenvolvimento, documentando e validando funcionalidades durante todo o ciclo de testes.
