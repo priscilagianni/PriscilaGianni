@@ -1,10 +1,8 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
+# 👋 Olá! Sou Priscila e estou em transição para a área de Qualidade de Software (QA)
 
-Meu nome é **Priscila** e estou em transição de carreira para a área de tecnologia.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou direcionando meus estudos para a área de **Qualidade de Software (QA)**, com foco em testes manuais, testes de API e automação.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira com foco em **Qualidade de Software (QA)**, dedicando meus estudos ao desenvolvimento de testes manuais, testes de API e automação.
-
-Atualmente participo da **Mentoria 2.0 em Qualidade de Software** com **Julio de Lima**, aprofundando conhecimentos em processos de testes, estratégia de qualidade, automação e boas práticas utilizadas no mercado.
+Atualmente participo da **Mentoria 2.0 em Qualidade de Software** com **Julio de Lima**, onde aprofundo conhecimentos em processos de testes, estratégia de qualidade, automação e boas práticas utilizadas no mercado.
 
 ---
 
