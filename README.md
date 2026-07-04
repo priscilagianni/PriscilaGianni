@@ -71,7 +71,6 @@ Sou fisioterapeuta há mais de **12 anos**, experiência que desenvolveu habilid
 - Comunicação
 - Trabalho em equipe
 - Resolução de problemas
-- Planejamento
 - Foco na experiência do usuário
 
 ## Experiência prática em QA (voluntariado)
