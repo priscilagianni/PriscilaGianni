@@ -111,15 +111,7 @@ Meu objetivo é evoluir constantemente, agregando valor aos produtos e proporcio
 
 ---
 
-# Em evolução constante
-
-Acredito que aprender continuamente é essencial para entregar software com qualidade.
-
-Estou construindo minha carreira em tecnologia com foco em **aprendizado prático**, **consistência** e **crescimento profissional**. Cada projeto deste perfil representa uma etapa da minha evolução como QA e demonstra meu compromisso em desenvolver soluções com qualidade, organização e atenção aos detalhes.
-
----
-
-# 📫 Contato
+# Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/priscilagianni/
 - **GitHub:** https://github.com/priscilagianni
