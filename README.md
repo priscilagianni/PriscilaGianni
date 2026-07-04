@@ -1,4 +1,4 @@
-# 👋 Olá! Sou Priscila e estou em transição para a área de Qualidade de Software (QA)
+# 👋 Olá! Sou a Priscila e estou construindo minha carreira em Qualidade de Software (QA)
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou direcionando meus estudos para a área de **Qualidade de Software (QA)**, com foco em testes manuais, testes de API e automação.
 
